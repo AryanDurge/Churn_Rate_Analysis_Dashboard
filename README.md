@@ -1,4 +1,4 @@
-# Churn Rate Analysis Dashboard
+# Customer Churn Rate Analysis - Financial Institution Dashboard
 
 ## Project Description
 This project involves creating an interactive dashboard for analyzing customer churn using Microsoft Power BI. The dashboard provides insightful visualizations and analytics to help understand churn trends, retention metrics, and key factors influencing customer behavior.
@@ -11,7 +11,7 @@ This project involves creating an interactive dashboard for analyzing customer c
 
 ## Technologies Used
 - **Microsoft Power BI:** For data visualization and dashboard creation.
-- **Data Sources:** CSV files, Excel spreadsheets, and SQL databases for historical customer data.
+- **Data Sources:** CSV files.
 
 ## How to Use
 1. **Clone the Repository:**
@@ -41,7 +41,7 @@ This project involves creating an interactive dashboard for analyzing customer c
        git push origin feature/YourFeature
   - 6: Open a pull request.
 # License
-## This project is licensed under the MIT License. See the LICENSE file for details.
+  This project is licensed under the MIT License. See the LICENSE file for details.
 
-# Contact
-## For any questions or feedback, feel free to reach out to me at your - durgearyan9@gmail.com .
+# Contact 
+  For any questions or feedback, feel free to reach out to me at your - durgearyan9@gmail.com .
